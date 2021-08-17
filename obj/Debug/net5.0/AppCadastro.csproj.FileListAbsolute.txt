@@ -1,0 +1,6 @@
+C:\Users\thiago.marquete\Documents\AppCadastro\obj\Debug\net5.0\AppCadastro.csprojAssemblyReference.cache
+C:\Users\thiago.marquete\Documents\AppCadastro\obj\Debug\net5.0\AppCadastro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiago.marquete\Documents\AppCadastro\obj\Debug\net5.0\AppCadastro.AssemblyInfoInputs.cache
+C:\Users\thiago.marquete\Documents\AppCadastro\obj\Debug\net5.0\AppCadastro.AssemblyInfo.cs
+C:\Users\thiago.marquete\Documents\AppCadastro\obj\Debug\net5.0\AppCadastro.csproj.CoreCompileInputs.cache
+C:\Users\thiago.marquete\Documents\AppCadastro\obj\Debug\net5.0\AppCadastro.csproj.AssemblyReference.cache
